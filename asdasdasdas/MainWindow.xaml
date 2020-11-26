@@ -1,0 +1,20 @@
+﻿<Window x:Class="asdasdasdas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:asdasdasdas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Btn" Content="Toevoegen" HorizontalAlignment="Left" Margin="276,64,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox x:Name="getal" HorizontalAlignment="Left" Height="23" Margin="356,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="SaldoLabel" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="356,106,0,0" Width="120"/>
+        <Button x:Name="Btn2" Content="Afschrijven" HorizontalAlignment="Left" Margin="188,64,0,0" VerticalAlignment="Top" Width="75"/>
+        <RadioButton x:Name="rk1" Content="Rekening 1" HorizontalAlignment="Left" Margin="188,112,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rk2" Content="Rekinging 2" HorizontalAlignment="Left" Margin="188,132,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="SaldoLabel2" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="356,137,0,0" Width="120"/>
+        <Button x:Name="Btn3" Content="Overschrijven" HorizontalAlignment="Left" Margin="97,64,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

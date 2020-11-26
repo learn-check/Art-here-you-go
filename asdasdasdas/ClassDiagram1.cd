@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ArduinoAPI.Controllers.BoekingController">
+    <Position X="9" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAABACEAAAQAAAAAgAAwBAAAIIAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>bingo\BoekingController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArduinoAPI.Data.CustomerInfo">
+    <Position X="11.25" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAQAAAAAAAAAEAAAAEAQABAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bingo\CustomerInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArduinoAPI.Data.TravelInfo">
+    <Position X="11.25" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bingo\TravelInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArduinoAPI.Service.MemoryStorage" BaseTypeListCollapsed="true">
+    <Position X="9" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAACEAAAQAAAAAAgEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bingo\MemoryStorage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ArduinoAPI.Program">
+    <Position X="6.75" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>bingo\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArduinoAPI.Startup">
+    <Position X="6.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAACAAAAAA=</HashCode>
+      <FileName>bingo\Startup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ArduinoAPI.Service.IMemoryStorage">
+    <Position X="6.75" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAEAAAQAAAAAAgEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bingo\IMemoryStorage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
